@@ -1,0 +1,14 @@
+# Configurações e dados privados
+.env
+.env.*
+!.env.example
+config/local.php
+*.log
+*.sqlite*
+*.db
+*.bak
+*.zip
+*.tar.gz
+node_modules/
+.DS_Store
+Thumbs.db
