@@ -4,6 +4,8 @@ Gestão de disciplinas, datas e capacidade de unidades em um calendário adminis
 
 **PHP 8.3 · MariaDB · PDO · JavaScript · HTML · CSS**
 
+[**Abrir demonstração online**](https://nicolastiagovieira-ui.github.io/calendario-academico/demo/)
+
 ## O problema
 
 Manter datas e vagas em planilhas dificulta visualizar alterações e preservar a consistência de um sistema de agendamento. O projeto concentra essa manutenção em uma interface mensal com regras de acesso e histórico.
